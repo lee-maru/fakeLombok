@@ -10,6 +10,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QaGTSIUOuK4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+  {% include xxx.html id="https://www.youtube.com/embed/QaGTSIUOuK4" %}  
+
 **백기선님의 '[The JAVA, 코드를 조작하는 다양한 방법](https://www.inflearn.com/course/the-java-code-manipulation)' 의 소개 영상에서 롬복의 밑단에서 어떤 일이 발생하는지에 대해, 우리가 사용하는 코드 밑단에서 무슨일이 발생하는지에 대해서 강의가 오픈되었다고 한다.** 
 
 이 강의에  끌리기 시작했고, 무작정 강의를 듣기 시작했다. 재밌게 잘들었지만, 롬복에 대한 호기심은 사라지지 않았고, 직접 롬복을 비슷하게 만들어본 사람이 있을까? 찾아봤지만, 한국에서는 찾기 어려웠고, **중국의 어느 개발자분이 롬복은 어떤 기술을 사용했습니다. 정도의 수준으로 정리한글** 들이 있었다. 이 글을 정독하면서,
