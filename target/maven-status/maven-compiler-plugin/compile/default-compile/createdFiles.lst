@@ -1,0 +1,9 @@
+me/maru/processor/GetProcessor$1.class
+me/maru/anno/Get.class
+me/maru/anno/Set.class
+me/maru/processor/GetProcessor$1$1.class
+me/maru/processor/GetProcessor.class
+me/maru/processor/SetProcessor.class
+META-INF/services/javax.annotation.processing.Processor
+me/maru/processor/SetProcessor$1.class
+me/maru/processor/SetProcessor$1$1.class
